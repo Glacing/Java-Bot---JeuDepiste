@@ -1,0 +1,16 @@
+Notre bot nommé Je Depiste permet d'intéragir avec notre site et son contenu.
+
+Une fois lancé en tant qu'application java, 
+il suffit d'envoyer dans un chat auquel il a accès "Salut Jeu Depiste !" pour lancer l'intéraction
+
+Le bot va alors vous envoyer un message puis un mp si vous décidez de cliquer sur le bouton qu'il vous propose
+
+Une fois la visite du site faite, vous pouvez entrer un témoignage en écrivant 
+"témoignage : votre témoignage" sur un channel auquel il a accès et votre témoignage sera affiché
+sur la partie "témoignages" du site.
+
+Pour utiliser le bot invitez le sur votre serveur :
+https://discord.com/oauth2/authorize?client_id=1047969343914389585&scope=bot&permissions=326417590272
+
+Lancez l'exécutable ou le main du .rar et le bot devrait passer en ligne 
+Une fois cela fait vous pouvez réaliser la procédure expliquée au début
